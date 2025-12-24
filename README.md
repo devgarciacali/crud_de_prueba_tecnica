@@ -1,1 +1,0 @@
-# crud_de_prueba_tecnica
